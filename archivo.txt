@@ -5,3 +5,5 @@ Tecnologías de la informacion
 Desarrollo de software multiplataforma
 Matunito
 Nombre: Bethbiray Dolores Romero
+Desarrollar aplicaciones que puedan ser desplegadas en internet
+Competencias:Algun texto mas     
