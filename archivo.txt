@@ -1,8 +1,8 @@
-Hola mundo
 Segunda practica git
-Aplicacione Web
+Asignatura: Aplicacione Web
 Grupo: C
 Grado: 3ro
-Tecnologias de la informacion
+Tecnologías de la informacion
 Desarrollo de software multiplataforma
 Matunito
+Nombre: Bethbiray Dolores Romero
