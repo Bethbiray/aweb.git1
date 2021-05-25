@@ -1,7 +1,6 @@
 Segunda practica git
 Asignatura: Aplicacione Web
-Grupo: C
-Grado: 3ro
+Grupo:3C
 Tecnologías de la informacion
 Desarrollo de software multiplataforma
 Matunito
